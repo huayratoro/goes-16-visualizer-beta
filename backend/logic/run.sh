@@ -1,0 +1,1 @@
+python backend/logic/imageGenerator.py "/datos/casos-conv/malargue/proj/" "-34" "-41" "-74" "-66"
